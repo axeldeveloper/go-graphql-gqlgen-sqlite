@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "app.db",
+            "driver": "SQLite",
+            "name": "demo-grap",
+            "previewLimit": 50
+        }
+    ]
+}
