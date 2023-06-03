@@ -16,7 +16,7 @@ import (
 const defaultPort = "8080"
 
 func lineSeparator() {
-	fmt.Println("========")
+	fmt.Println("=========================================================")
 }
 
 func startMessage() {

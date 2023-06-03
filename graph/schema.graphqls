@@ -2,6 +2,13 @@
 #
 # https://gqlgen.com/getting-started/
 
+
+type Bank  {
+  id: ID!
+  code: String!
+  name : String!
+}
+
 type Todo {
   id: ID!
   text: String!

@@ -10,4 +10,5 @@ import "github.com/axeldeveloper/go-gqlgen-todos/graph/model"
 
 type Resolver struct {
 	todos []*model.Todo
+	//banks []*model.Bank
 }
